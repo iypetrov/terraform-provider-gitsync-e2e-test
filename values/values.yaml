@@ -1,4 +1,0 @@
-foo: bar
-replicas: 2
-image: nginx:latest
-buzz: baz
