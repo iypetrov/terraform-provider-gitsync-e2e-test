@@ -1,3 +1,3 @@
 # Title
 
-Name is bar and replicas are 2
+Name is foo and replicas are 2
